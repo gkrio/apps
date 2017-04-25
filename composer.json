@@ -18,10 +18,10 @@
     ],
     "require": {
         "php": "^5.5.9 || ^7.0",
-        "gkr/support": "~1.0",
+        "gkr/support": "dev-master",
         "illuminate/support": "5.4.*|5.5.*",
         "illuminate/console": "5.4.*|5.5.*",
-        "illuminate/contracts": "5.4.*|5.5.*"
+        "illuminate/container": "5.4.*|5.5.*"
     },
     "autoload": {
         "psr-4": {
